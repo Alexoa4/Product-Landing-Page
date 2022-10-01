@@ -1,5 +1,5 @@
 body{
-background-color: gray;
+background-color: bisque;
 font-family: sans-serif;
 }
 *{
@@ -15,11 +15,11 @@ font-family: sans-serif;
    position: fixed;
    top: 0;
    min-height: 75px;
-   padding: 0 20px;
+   padding: 0 10px;
    display: flex;
    justify-content: space-around;
    align-items: center;
-   background-color: bisque;
+   background-color:bisque;
  }
    
 
