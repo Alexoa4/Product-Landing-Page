@@ -1,2 +1,2 @@
 # Product Landing Page
- This is Product landing page I built as part of my Freecodecamp curriculum .
+ This is the Product landing page I built as part of my freecodecamp curriculum.
