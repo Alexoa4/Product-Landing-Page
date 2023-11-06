@@ -2,7 +2,7 @@
 <h2>Building A Product Landing Page</h2>
 
 <h3>Project Objective</h3>
-Build an app that is functionally similar to https://product-landing-page.freecodecamp.rocks.
+To Build an app that is functionally similar to https://product-landing-page.freecodecamp.rocks.
 <br />
 
 
